@@ -1,0 +1,2 @@
+Objective: Plot 5 different realizations at 50 points for l=0.1, 0.5 and 1 for the Gaussian Process. What is the difference for different value of l? 
+2. Repeat the previous task now with polynomial covariance functionk(xi,xj)=xi·xj +0.1
